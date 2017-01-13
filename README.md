@@ -2,6 +2,7 @@
 
 1. Create ELB first 
    you can colne the repo 
+   
   ```
    # git clone ssh://zzhao@code.engineering.redhat.com:22/openshift-misc
    # cd openshift-misc/v3-launch-templates/functionality-testing/aos-33
