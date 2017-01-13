@@ -8,7 +8,9 @@
    # cd openshift-misc/v3-launch-templates/functionality-testing/aos-33
    # ansible-playbook extra-ansible/create_aws_elb.yaml -v -e aws_elb_enable=false -e new_aws_elb=true
    ```
-2. setup the openshift env with jenkins using the following 
+2. setup the openshift env with jenkins using the following
+ 
+   `link: http://git.app.eng.bos.redhat.com/git/openshift-misc.git/plain/v3-launch-templates/functionality-testing/aos-33/vars-ha/vars.ose33-rpm-rhel7-s3_registry-aws-cloudprovider-elb-ha`
 
 ```    
 vm_type: m3.medium
